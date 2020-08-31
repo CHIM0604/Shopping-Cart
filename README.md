@@ -7,3 +7,5 @@
 - Basic shopping cart function 
 - add item, delete item practice
 ### Display:
+![](img/未命名.png)
+![](img/未命名2.png)
