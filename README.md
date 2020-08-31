@@ -1,2 +1,9 @@
 # Shopping-Cart
-This is a vanilla javascript shopping cart practice code
+## Easy shopping cart made with vanilla JS
+- font-awesome icon practice
+- go top & go down button
+- Added item notice
+- merchandise section
+- Basic shopping cart function 
+- add item, delete item practice
+### Display:
